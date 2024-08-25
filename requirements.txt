@@ -1,12 +1,12 @@
-torch==2.4.0
-torchvision --index-url https://download.pytorch.org/whl/test/cu124
-torchaudio --index-url https://download.pytorch.org/whl/test/cu124
+--find-links https://download.pytorch.org/whl/torch_stable.html
+torch==2.2.0+cu124
+torchvision==0.17.0+cu124
+torchaudio==2.2.0+cu124
 torchmetrics==1.4.1
 pytorch-lightning
 sentencepiece
 tokenizers
 transformers
-triton
 numexpr
 xgboost
 einops
@@ -23,3 +23,7 @@ regex
 safetensors
 sympy
 timm
+ipython
+pandas
+matplotlib
+scikit-image
