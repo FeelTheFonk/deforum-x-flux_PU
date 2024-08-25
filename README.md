@@ -3,8 +3,8 @@
 
 ### Clone repository
 ```bash
-git clone --recurse-submodules https://github.com/XLabs-AI/deforum-x-flux.git
-cd deforum-x-flux
+git clone --recurse-submodules https://github.com/FeelTheFonk/deforum-x-flux_PU.git
+cd deforum-x-flux_PU
 ```
 ### Install requirements
 ```bash
